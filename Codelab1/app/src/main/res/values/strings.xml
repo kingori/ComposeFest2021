@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="Typos">Codelab1</string>
+    <string name="show_less">Show less</string>
+    <string name="show_more">Show more</string>
+    <string name="aaa">Show less</string>
+</resources>
